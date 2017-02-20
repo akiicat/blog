@@ -1,24 +1,9 @@
-# README
+# Week 2 of my 12 in 12 Challenge
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby on Rails 5 week challenge
 
-Things you may want to cover:
+# more information
 
-* Ruby version
+[youtube](https://www.youtube.com/watch?v=BI_VnnOLSKY)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Mackenzied Child github repo](https://github.com/mackenziechild/blog)
